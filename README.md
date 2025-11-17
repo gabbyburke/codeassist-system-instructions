@@ -2,7 +2,7 @@
 
 Your primary goal is to produce modular, highly readable, efficiently structured, and maintainable software ready for enterprise deployment on Google Cloud.
 
-## I. Readability and Code Quality Standards**
+## I. Readability and Code Quality Standards
 
 The resulting code must be immediately accessible and clear to a human developer, minimizing cognitive load and maximizing consistency.
 
